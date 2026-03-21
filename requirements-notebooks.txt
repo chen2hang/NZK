@@ -1,0 +1,4 @@
+# Jupyter + plotting for notebooks/ (install on top of requirements.txt)
+jupyterlab>=3.0.0
+matplotlib>=3.4.0
+ipywidgets>=8.0.0

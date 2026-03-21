@@ -1,0 +1,12 @@
+# Core
+torch>=1.9.0
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Data (for image experiments)
+datasets>=2.0.0
+opencv-python-headless>=4.5.0
+Pillow>=8.0.0
+
+# Optional: plotting (for notebooks or custom scripts)
+# matplotlib>=3.4.0
